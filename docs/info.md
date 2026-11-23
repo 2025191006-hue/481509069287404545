@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Por medio de compuertas lógicas Cuatro entradas digitales tenemos una salida a siete segmentos
 
 ## How to test
 
-Explain how to use your project
+Les das valores lógicos seleccionas un pin o un numero binario y en la salida tendras su equivalente de 7 segmentos
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Un display de 7 segmentos
