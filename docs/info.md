@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Por medio de compuertas lógicas Cuatro entradas digitales tenemos una salida a siete segmentos
+Por medio de compuertas lógicas Cuatro entradas digitales tenemos una salida a siete
 
 ## How to test
 
